@@ -55,7 +55,7 @@ class NavBar extends StatelessWidget {
                     borderRadius: BorderRadius.circular(18),
                     gradient: const LinearGradient(
                         colors: [
-                          Color(0xFFC86DD7),
+                          Color(0xFF42A5F5),
                           Color(0xFF3023AE),
                         ],
                         begin: Alignment.bottomRight,
@@ -82,7 +82,7 @@ class NavBar extends StatelessWidget {
                     height: 40,
                     decoration: BoxDecoration(
                         gradient: const LinearGradient(
-                            colors: [Color(0xFFC86DD7), Color(0xFF3023AE)],
+                            colors: [Color(0xFF42A5F5), Color(0xFF3023AE)],
                             begin: Alignment.bottomRight,
                             end: Alignment.topLeft
                         ),
