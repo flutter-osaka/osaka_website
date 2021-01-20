@@ -1,6 +1,6 @@
 {
-    "name": "website",
-    "short_name": "website",
+    "name": "osaka_website",
+    "short_name": "osaka_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

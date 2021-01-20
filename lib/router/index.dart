@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:website/pages/index.dart';
+import 'package:osaka_website/pages/index.dart';
 import 'simple_route.dart';
 
 Route<dynamic> buildRouters(RouteSettings settings) {

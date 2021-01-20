@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:website/router/index.dart';
+import 'package:osaka_website/router/index.dart';
 
 void main() {
   runApp(FlutterOsakaWebsite());
